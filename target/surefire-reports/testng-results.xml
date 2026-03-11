@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-10T21:19:25 EDT" name="Challenging DOM Suite" finished-at="2026-03-10T21:19:36 EDT" duration-ms="10338">
+    <groups>
+    </groups>
+    <test started-at="2026-03-10T21:19:25 EDT" name="Locator Practice Tests" finished-at="2026-03-10T21:19:36 EDT" duration-ms="10338">
+      <class name="tests.ChallengingDomTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:25 EDT" name="setUp" finished-at="2026-03-10T21:19:29 EDT" duration-ms="3079" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:29 EDT" name="setUpPage" finished-at="2026-03-10T21:19:29 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="testButtons()[pri:1, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:29 EDT" name="testButtons" finished-at="2026-03-10T21:19:29 EDT" duration-ms="882" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testButtons -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:29 EDT" name="tearDown" finished-at="2026-03-10T21:19:30 EDT" duration-ms="219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:30 EDT" name="setUp" finished-at="2026-03-10T21:19:32 EDT" duration-ms="2738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:32 EDT" name="setUpPage" finished-at="2026-03-10T21:19:32 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="testTable()[pri:2, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:32 EDT" name="testTable" finished-at="2026-03-10T21:19:33 EDT" duration-ms="479" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:33 EDT" name="tearDown" finished-at="2026-03-10T21:19:33 EDT" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:33 EDT" name="setUp" finished-at="2026-03-10T21:19:36 EDT" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUpPage()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:36 EDT" name="setUpPage" finished-at="2026-03-10T21:19:36 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpPage -->
+        <test-method signature="testCanvas()[pri:3, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:36 EDT" name="testCanvas" finished-at="2026-03-10T21:19:36 EDT" duration-ms="24" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCanvas -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.ChallengingDomTest@1cbbffcd]" started-at="2026-03-10T21:19:36 EDT" name="tearDown" finished-at="2026-03-10T21:19:36 EDT" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.ChallengingDomTest -->
+    </test> <!-- Locator Practice Tests -->
+  </suite> <!-- Challenging DOM Suite -->
+</testng-results>
